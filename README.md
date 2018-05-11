@@ -23,6 +23,7 @@
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
+| device [🔊](http://dict.youdao.com/dictvoice?audio=device&type=1) | ✅ [dɪˈvaɪs] |
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=1) | ✅ n. ['dɑɪdʒɛst] v. [dɑɪ'dʒɛst] | ❌ ['dɪgɛst] |
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=1) | ✅ [ˈdʒæŋɡoʊ] | ❌ [diˈdʒæŋɡoʊ] |
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
@@ -54,6 +55,7 @@
 | OS X | ✅ OS ten | |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
+| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=1) | ✅ 英 [ˈpaɪθən] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
@@ -89,6 +91,3 @@
 > 5. https://www.v2ex.com/t/246033
 > 6. https://www.v2ex.com/t/342087
 
-
-#### 读对了所有的单词？
-我们正在招聘优秀的程序员，欢迎[加入石墨文档](https://shimo.im/doc/G3ckHEVF3f4qANHk)
