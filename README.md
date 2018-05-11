@@ -46,6 +46,7 @@
 | locale [🔊](http://dict.youdao.com/dictvoice?audio=locale&type=2) | ✅ [ləʊ'kɑːl] | ❌ [ˈloʊk(ə)l] |
 | main [🔊](http://dict.youdao.com/dictvoice?audio=main&type=1) | ✅ [meɪn] | ❌ [mɪn] |
 | margin [🔊](http://dict.youdao.com/dictvoice?audio=margin&type=1) | ✅ ['mɑːdʒɪn] | ❌ ['mʌgɪn] |
+| manifest [🔊](http://dict.youdao.com/dictvoice?audio=manifest&type=1) | ✅ [ˈmænɪfest]  |
 | matrix [🔊](http://dict.youdao.com/dictvoice?audio=matrix&type=1) | ✅ [ˈmeɪtrɪks] | ❌ [ˈmɑ:trɪks] |
 | maven [🔊](http://dict.youdao.com/dictvoice?audio=maven&type=1) | ✅ ['meɪvn] | ❌ ['maːvn] |
 | Microsoft [🔊](http://dict.youdao.com/dictvoice?audio=Microsoft&type=1) | ✅ ['maikrəusɔft] | ❌ ['mikrəusɔft] |
@@ -55,8 +56,9 @@
 | OS X | ✅ OS ten | |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
-| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=1) | ✅ 英 [ˈpaɪθən] |
+| popup [🔊](http://dict.youdao.com/dictvoice?audio=popup&type=1) | ✅ 英  ['pɒpʌp] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
+| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=1) | ✅ 英 [ˈpaɪθən] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ [relm] | ❌ [riəlm] |
