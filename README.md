@@ -20,6 +20,7 @@
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=1)| ✅ ['æʒə] | ❌ [ˈæzʊʒə] |
 | bind [🔊](http://dict.youdao.com/dictvoice?audio=bind&type=1) | ✅ [baɪnd] | ❌ [bɪnd] |
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=1) | ✅ [kæʃ] | ❌ [kætʃ] |
+| choreographer [🔊](http://dict.youdao.com/dictvoice?audio=coreographer&type=1) | ✅ [,kɒrɪ'ɒɡrəfə] |
 | Daemon [🔊](http://dict.youdao.com/dictvoice?audio=Daemon&type=1) | ✅ ['diːmən] | ❌ [[dæmən]] |
 | deny [🔊](http://dict.youdao.com/dictvoice?audio=deny&type=1) | ✅ [dɪ'naɪ] | ❌ ['dæni] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=1) | ✅ ['dek] | ❌ [di'kju] |
